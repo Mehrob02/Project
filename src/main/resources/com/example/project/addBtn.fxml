@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.text.Font?>
+
+
+<JFXButton fx:id="btn" alignment="CENTER" buttonType="RAISED" graphicTextGap="0.0" prefHeight="21.0" prefWidth="21.0" ripplerFill="RED" style="-fx-background-color: grey;" text="+" textAlignment="CENTER" textFill="#0700ff" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.project.HelloController">
+   <font>
+      <Font size="10.0" />
+   </font>
+</JFXButton>
